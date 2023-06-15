@@ -1,5 +1,7 @@
 # Criação de Clusters Kubernetes com Kind
 
+# ATENÇÃO: PROJETO EM DESENVOLVIMENTO
+
 Este projeto consiste em scripts para criar clusters Kubernetes utilizando o Kind (Kubernetes in Docker) e o kubectl. Os scripts estão disponíveis tanto para Windows quanto para Linux, permitindo a instalação do Kind e do kubectl, criação de clusters personalizados com a quantidade de workers desejada e configuração do contexto do Kubernetes.
 
 ## Pré-requisitos
