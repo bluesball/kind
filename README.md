@@ -1,0 +1,2 @@
+# kind
+install kind
